@@ -1,0 +1,9 @@
+{
+  "name": "@happynrwl/my-lib",
+  "version": "0.0.1",
+  "type": "commonjs",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo 'implement test'"
+  }
+}
